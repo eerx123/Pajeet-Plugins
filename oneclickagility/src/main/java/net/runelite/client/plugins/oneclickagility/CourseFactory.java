@@ -97,7 +97,7 @@ public class CourseFactory
             case POLLNIVNEACH:
                 return new Course(
                         new ArrayList<>(Arrays.asList(
-                                new ObstacleArea(3345,3375,2957,3003,0,14935),
+                                new ObstacleArea(3345,3375,2957,3003,0,14935), needs to be updated <3
                                 new ObstacleArea(3346,3351,2963,2968,1,14936),
                                 new ObstacleArea(3352,3355,2973,2976,1,14937),
                                 new ObstacleArea(3360,3362,2977,2979,1,14938),
